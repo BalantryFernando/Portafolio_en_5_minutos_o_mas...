@@ -238,7 +238,7 @@ export default function Contact() {
                     name='message'
                     value={formData.message}
                     onChange={handleChange}
-                    placeholder='Dime que tienes pensaodo...'
+                    placeholder='Dime que tienes pensado...'
                     rows={5}
                     required
                     className='bg-background/50 border-accent/20 focus-visible:ring-accent'

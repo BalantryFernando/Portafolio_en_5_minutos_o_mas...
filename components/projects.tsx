@@ -11,51 +11,43 @@ import { Dialog, DialogContent, DialogTrigger } from '@/components/ui/dialog'
 const projects = [
   {
     id: 1,
-    title: 'Diseño UX/UI para App de Finanzas',
-    description:
-      'Rediseño completo de la interfaz de usuario para una aplicación de gestión financiera personal, mejorando la experiencia del usuario y la accesibilidad.',
+    title: 'Proyecto1',
+    description: 'Información sobre Proyecto 1',
     image: '/placeholder.svg?height=600&width=800',
-    tags: ['UX/UI', 'Figma', 'Diseño Responsivo'],
+    tags: ['tecnologia1', 'tecnologia2', 'tecnologia3'],
     demoUrl: '#',
     githubUrl: '#',
-    fullDescription:
-      'Este proyecto consistió en el rediseño completo de una aplicación de finanzas personales. Realicé investigación de usuarios, wireframes, prototipos interactivos y pruebas de usabilidad para garantizar una experiencia óptima. El resultado fue un aumento del 35% en la retención de usuarios y una reducción del 40% en el tiempo necesario para completar tareas comunes.'
+    fullDescription: 'Información relevante sobre Proyecto'
   },
   {
     id: 2,
-    title: 'E-commerce para Tienda de Moda',
-    description:
-      'Desarrollo frontend de una tienda online de moda con carrito de compras, filtros de productos y sistema de pago integrado.',
+    title: 'Proyecto2',
+    description: 'Información sobre Proyecto 2',
     image: '/placeholder.svg?height=600&width=800',
-    tags: ['React', 'Next.js', 'Tailwind CSS'],
+    tags: ['tecnologia1', 'tecnologia2', 'tecnologia3'],
     demoUrl: '#',
     githubUrl: '#',
-    fullDescription:
-      'Desarrollé el frontend completo para una tienda de moda online utilizando React y Next.js. Implementé un sistema de carrito de compras, filtros de productos avanzados, y una experiencia de compra fluida. El sitio cuenta con animaciones sutiles, carga optimizada de imágenes y está completamente optimizado para dispositivos móviles.'
+    fullDescription: 'Información relevante sobre Proyecto'
   },
   {
     id: 3,
-    title: 'Dashboard para Análisis de Datos',
-    description:
-      'Diseño y desarrollo de un dashboard interactivo para visualización de datos empresariales con gráficos personalizables.',
+    title: 'Proyecto3',
+    description: 'Información sobre Proyecto 3',
     image: '/placeholder.svg?height=600&width=800',
-    tags: ['JavaScript', 'D3.js', 'API REST'],
+    tags: ['tecnologia1', 'tecnologia2', 'tecnologia3'],
     demoUrl: '#',
     githubUrl: '#',
-    fullDescription:
-      'Creé un dashboard interactivo para visualización de datos empresariales que permite a los usuarios analizar tendencias, generar informes y tomar decisiones basadas en datos. Utilicé D3.js para crear visualizaciones personalizadas y desarrollé una arquitectura que permite la actualización en tiempo real de los datos.'
+    fullDescription: 'Información relevante sobre Proyecto'
   },
   {
     id: 4,
-    title: 'Aplicación de Gestión de Tareas',
-    description:
-      'Aplicación web para gestión de tareas y proyectos con funcionalidades de colaboración en tiempo real.',
+    title: 'Proyecto4',
+    description: 'Información sobre Proyecto 4',
     image: '/placeholder.svg?height=600&width=800',
-    tags: ['Vue.js', 'Firebase', 'CSS Grid'],
+    tags: ['tecnologia1', 'tecnologia2', 'tecnologia3'],
     demoUrl: '#',
     githubUrl: '#',
-    fullDescription:
-      'Desarrollé una aplicación de gestión de tareas que permite a los equipos colaborar en proyectos en tiempo real. Implementé funcionalidades como arrastrar y soltar tareas, asignación de responsables, fechas límite, comentarios y notificaciones. La aplicación utiliza Firebase para la sincronización en tiempo real y autenticación de usuarios.'
+    fullDescription: 'Información relevante sobre Proyecto'
   }
 ]
 
