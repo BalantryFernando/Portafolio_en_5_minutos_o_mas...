@@ -59,7 +59,7 @@ export default function About() {
               equipo bajo presión, logrando victorias decisivas en momentos
               importantes. Lo que me ha enseñado a desarrollar habilidades
               valiosas como mantener la calma en situaciones exigentes y ser
-              perseverante ante cualquier desafío..
+              perseverante ante cualquier desafío...
             </p>
 
             <p className='text-foreground/80 mb-8'>
