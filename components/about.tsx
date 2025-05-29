@@ -28,9 +28,9 @@ export default function About() {
             transition={{ duration: 0.6 }}
             className='relative'
           >
-            <div className='relative h-[450px] rounded-2xl overflow-hidden'>
+            <div className='relative h-[450px] rounded-2xl overflow-hidden mt-4'>
               <Image
-                src='/placeholder.svg?height=900&width=600'
+                src='https://github.com/BalantryFernando/Portafolio_en_5_minutos_o_mas.../blob/main/Imagenes/1745778834760.jpg?raw=true' // <--- Tu enlace aquí
                 alt='Foto de perfil'
                 fill
                 className='object-cover'
